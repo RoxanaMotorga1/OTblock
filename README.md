@@ -36,9 +36,12 @@ cursors and selections, and your work is saved on the server.
 | Edge labels |
 | Snap-to-grid |
 | Create/Edit/Rename/Delete diagram |
+| Move/Import |
+| Import from Ucmdb | 
+| Generate diagram with Code Assitant | 
 | Keyboard shortcuts (Del, Ctrl+Z/Y, Ctrl+A) |
 | Export to PNGx1/PNGx2/SVG/JSON/Transparent Background |
 | Version history | 
-| Code-to-diagram |
+| Code-to-diagram (Typescript/Phyton/Java) |
 | Workspaces and links between diagrams |
 | Product |
