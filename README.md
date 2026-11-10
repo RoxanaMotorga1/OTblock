@@ -28,16 +28,16 @@ cursors and selections, and your work is saved on the server.
 
 ## Status
 
-| Area | Status |
-|---|---|
-| Editor demo (MVP) | In progress |
-| Collaboration demo (MVP) | In progress |
-| Diagram list (create, rename, open) | In progress |
-| Edge labels | Planned |
-| Snap-to-grid | Planned |
-| Keyboard shortcuts (Del, Ctrl+C/V/Z/Y, Ctrl+A) | Planned |
-| Export to PNG/SVG | Planned |
-| Version history | Planned |
-| Code-to-diagram | Planned |
-| Workspaces and links between diagrams | Planned |
-| Product
+| Area |
+|---|
+| Editor demo (MVP) |
+| Collaboration demo (MVP) |
+| Diagram list (create, rename, open) |
+| Edge labels |
+| Snap-to-grid |
+| Keyboard shortcuts (Del, Ctrl+Z/Y, Ctrl+A) |
+| Export to PNGx1/PNGx2/SVG/JSON/Transparent Background |
+| Version history | 
+| Code-to-diagram |
+| Workspaces and links between diagrams |
+| Product |
